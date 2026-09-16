@@ -462,3 +462,16 @@ The project demonstrates the practical use of modern frontend technologies and d
 **Data Storage:** Browser LocalStorage
 
 > **Track. Understand. Improve Your Spending.**
+
+<img width="1905" height="842" alt="Screenshot 2026-09-16 211049" src="https://github.com/user-attachments/assets/5cf381d0-b95a-4591-9a10-1fb0f6e57d27" />
+<img width="1905" height="842" alt="Screenshot 2026-09-16 211049" src="https://github.com/user-attachments/assets/56d59a63-2799-4c97-b06d-583a687e2de0" />
+<img width="1905" height="842" alt="Screenshot 2026-09-16 211049" src="https://github.com/user-attachments/assets/93a419d9-0c53-4b5e-a10e-f3206f649e5f" />
+<img width="1905" height="842" alt="Screenshot 2026-09-16 211049" src="https://github.com/user-attachments/assets/ba3e0201-096b-4a12-b1b7-09ea44cfff7e" />
+<img width="1905" height="842" alt="Screenshot 2026-09-16 211049" src="https://github.com/user-attachments/assets/708b4425-769a-4053-ac03-64326cb6b367" />
+<img width="1905" height="842" alt="Screenshot 2026-09-16 211049" src="https://github.com/user-attachments/assets/40556a8f-cf58-4ac3-853e-1d262f4f7912" />
+
+
+
+
+
+
